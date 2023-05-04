@@ -1,17 +1,27 @@
 # A Beginner's Guide to Using Glasp
 
 ## Introduction
-Glasp is a free social web highlighter. Glasp was launched on June 1, 2021 by [Kazuki Nakayashiki](https://www.crunchbase.com/person/kazuki-nakayashiki) as the CEO/CTO of the organization. Glasp allows users to take notes and highlight resourceful  web contents without necessarily leaving the web page. With the AI summary feature, users can grasp hidden insights that they haven't figured out. Glasp enables users to learn difficult concerts from the notes and highlights of link-minded persons who have read through the same content. These highlights can then be tagged, searched for, linked to, and shared on a variety of other platforms, including Twitter, Teams, and Slack.
+Introduction
+Glasp is a free social web highlighter. Glasp allows users to take notes and highlight resourceful  web contents without necessarily leaving the web page. 
+With the AI summary feature, users can grasp hidden insights that they haven't figured out. 
+
+Glasp enables users to learn difficult concerts from the notes and highlights of link-minded persons who have read through the same content. These highlights can then be tagged, searched for, linked to, and shared on a variety of other platforms, including Twitter, Teams, and Slack.
+
 
 ## What is Glasp?
-Glasp, short for Greatest Legacy Accumulated as Shared Proof, is an essential tool for readers and writers who want to keep track of ideas as they go through the content. The free browser extension-based social web tool is aimed at eliminating learning in isolation, thereby leaving your footprints of legacy for everyone. Glasp eliminates the use of traditional copy and paste of resourceful contents on a web page to a personal note page. Highlighted contents which are automatically assembled on your Glasp homepage for review,and easy access which can be shared with everyone. 
+Glasp, short for Greatest Legacy Accumulated as Shared Proof, is an essential tool for readers and writers who want to keep track of ideas as they go through the content.  Glasp was launched on June 1, 2021 by [Kazuki Nakayashiki](https://www.crunchbase.com/person/kazuki-nakayashiki) as the CEO/CTO of the organization. The free browser extension-based social web tool is aimed at eliminating learning in isolation, thereby leaving your footprints of legacy for everyone.
+
+ [Glasp](https://blog.glasp.co/how-to-install-glasps-browser-extension/) eliminates the use of traditional copy and paste of resourceful contents on a web page to a personal note page. Highlighted contents which are automatically assembled on your Glasp homepage for review, and easy access which can be shared with everyone. 
+
 
 ## Why Glasp?
-Humans tend to learn quickly when they interact with others. Glasp is a free social web highlighter that provides a community of like-minded individuals to learn from. This community breaks down difficult concerts through highlighted contents and notes shared with others. Glasp gives everyone the opportunity to be both a teacher, and a student. Professionals in different fields are able to reach a large audience through their shared resources, ideas and in depth knowledge about a subject matter. 
+Humans tend to learn quickly when they interact with others. Glasp is a free social web highlighter that provides a community of like-minded individuals to learn from. This community breaks down difficult concerts through highlighted contents and notes shared with others. 
+
+Glasp gives everyone the opportunity to be both a teacher, and a student. Professionals in different fields are able to reach a large audience through their shared resources, ideas and in depth knowledge about a subject matter. 
 
 ## Glasp’s Unique Features
-Glasp does not just highlight your content on the web, but offers some outstanding features that make it unique. Now let's quickly  look at what differentiate Glaps.
-### 1. AI Summary 
+GGlasp does not just highlight your content on the web, but offers some outstanding features that make it unique. Now let's quickly  look at what differentiates Glaps.  
+### 1. Glasp AI Summary 
 This is a very powerful tool introduced by Glasp.With users highlighted on a web page, the AI summary feature enables users to grasp hidden insights that they haven't figured out. Making difficult concerts a lot easier and faster to learn. 
 Visibility of Highlights and Notes
 Glaps allows users to learn publicly , as every highlight and notes are made available to everyone on Glaps, thereby linking like-minds together as they share their insights.
@@ -26,61 +36,61 @@ There is also a Community page that you can access using the [Explore tab](https
 ### 4. Save for Later Used.
 Like every other learning app, Glasp allows users to save notes and articles highlighted by other individuals for later use. This unique feature gives users the flexibility not to miss anything they find their interest in.  All saved notes and articles highlighted can be viewed on My Highlights, under Saved.  
 
-## How to use Glasp
+## How to use Glasp Chrome Extension
 Glasp is a free browser extension-based social web highlighter that is easy to use, below are the quick steps to take, to begin your journey of highlighting and note taking.
 
-### Signup for Glasp
+### Glasp Signup
 * On your web  browser type glasp.co or **click [home](https://glasp.co/)**
 * Click on **Sign up (beta)** and click Continue With Google.
-![Sign up](glasp%20signup.png)
+![Sign up](images/glasp%20signup.png)
 
-![Sign up2](glasp%20signup%202.png)
+![Sign up2](images/glasp%20signup%202.png)
 
 **Hint:** After signing up Browser will redirect you to the Chrome web store or goto [Chrome web store](https://chrome.google.com/webstore/detail/glasp-social-web-highligh/blillmbchncajnhkjfdnincfndboieik). 
 
-### Adding Glasp to Chrome
+### Adding Glasp to Chrome Browser
 * Click on **Add to Chrome**. Glasp is automatically downloaded and installed. 
 
-![add glasp to chrome](add%20glasp.png)
+![add glasp to chrome](images/add%20glasp.png)
 * Select Add extension from the pop-up.
 
 **Hint:** Glasp downloads and automatically installs and redirects you to a welcome page.
 
 * Pin Glasp extension by clicking on the **extension icon** at the top right page.
-* Select **pin** on the Glasp extension and Glaps is added
+* Select the **pin** on the Glasp extension and Glaps is added
 
-![Glasp pin](glasp%20pin1.png)
+![Glasp pin](images/glasp%20pin1.png)
 
 ### Customize Glasp
 
-![sign in](glasp%20signin.png)
+![sign in](images/glasp%20signin.png)
 
 
 * Click on the **Home Icon**.
 
-![glasp first home](glasp%20first%20home.png)
+![glasp first home](images/glasp%20first%20home.png)
 
 * Select your ten (10) favorite topics. This is used to customize your feeds. 
 * Select  **Your topics** to change and find more topics you are interested in.
 
-![glasp home main](glasp%20home%20main.png)
+![glasp home main](images/glasp%20home%20main.png)
 
-### Using Glasp in Chrome
+### Using Glasp in Chrome Browser 
 
 * Open the web page you want to highlight. 
 * Select the text you want to highlight using your mouse.
 * Select the highlight color from the Glasp pop-up highlighter tool.
 
-![highlight](glasp%20first%20highlight%202.png)
+![highlight](images/glasp%20first%20highlight%202.png)
 
 * Remove a highlight by clicking on the **highlighted area**  ➡️ **Close** from the pop-up
 
-![glasp close](glasp%20close.png)
+![glasp close](images/glasp%20close.png)
 
 * Open **My Highlights** tab on the Glasp page.
 
 
-![my highligt](annotely_image.png)
+![my highligt](images/annotely_image.png)
 
 * **Add a tag:** Click on the **Empty tag** ➡️t**ype the name + enter**. 
 * **Delete page:** Click on the  **three dots** at the top right corner. 
@@ -95,7 +105,7 @@ Glasp is a free browser extension-based social web highlighter that is easy to u
 
 #### Download and Export your Highlights
 
-![download and share](glasp%20download%20and%20share.png)
+![download and share](images/glasp%20download%20and%20share.png)
 
 * Go to your Glasp profile  My Highlights ➡️ Articles. 
 * Click on S**hare Content** beside the **three dots** at the top right corner.
